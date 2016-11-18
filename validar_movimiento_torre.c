@@ -1,5 +1,5 @@
-/*Se esta esperando actualización*/
-int validar_movimiento_torre (int pos_ini_x,int pos_ini_y,int pos_x,int pos_y,char tablero[8][8])
+
+int validar_movimiento_torre (int pos_ini_x,int pos_ini_y,int pos_x,int pos_y)
 {
 
 
